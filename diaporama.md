@@ -12,27 +12,27 @@ Mathis Petrovich
 
 
 ## The university
-<image src="./images/carte_cmu.jpg" controls style="width:80%" ></image>
+<image src="https://perso.crans.org/petrovich/images/carte_cmu.jpg" controls style="width:80%" ></image>
 
 
 ## The university
-<image src="./images/uni/cmu3.jpg" controls style="width:70%" ></image>
+<image src="https://perso.crans.org/petrovich/images/uni/cmu3.jpg" controls style="width:70%" ></image>
 
 
 ## The university
-<image src="./images/uni/cmu1.jpg" controls style="width:70%" ></image>
+<image src="https://perso.crans.org/petrovich/images/uni/cmu1.jpg" controls style="width:70%" ></image>
 
 
 ## My lab
-<!-- <image src="./images/uni/cmu2.jpg" controls style="width:40%" ></image> -->
-<image src="./images/uni/bureau1.jpg" controls style="width:75%" ></image>
+<!-- <image src="https://perso.crans.org/petrovich/images/uni/cmu2.jpg" controls style="width:40%" ></image> -->
+<image src="https://perso.crans.org/petrovich/images/uni/bureau1.jpg" controls style="width:75%" ></image>
 
 
 ## Shuttle and escort
-<image src="./images/shuttle.jpg" controls style="width:100%" ></image>
+<image src="https://perso.crans.org/petrovich/images/shuttle.jpg" controls style="width:100%" ></image>
 
 <!-- ## Some facilities
-<image src="./images/uni/cmu4.jpg" controls style="width:40%" ></image>  <image src="./images/uni/cmu4.jpg" controls style="width:40%" ></image>-->
+<image src="https://perso.crans.org/petrovich/images/uni/cmu4.jpg" controls style="width:40%" ></image>  <image src="https://perso.crans.org/petrovich/images/uni/cmu4.jpg" controls style="width:40%" ></image>-->
 
 
 
@@ -40,7 +40,7 @@ Mathis Petrovich
 
 | My advisor                                                            | My team                                                               |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------|
-| <image src="./images/team/martial.jpg" controls style="height:100%"></image> | <image src="./images/team/satyaki.jpg" controls style="height:35%"></image>  <image src="./images/team/vivek.jpeg" controls style="height:45%"></image> <image src="./images/team/david.jpeg" controls style="height:40%"></image>|
+| <image src="https://perso.crans.org/petrovich/images/team/martial.jpg" controls style="height:100%"></image> | <image src="https://perso.crans.org/petrovich/images/team/satyaki.jpg" controls style="height:35%"></image>  <image src="https://perso.crans.org/petrovich/images/team/vivek.jpeg" controls style="height:45%"></image> <image src="https://perso.crans.org/petrovich/images/team/david.jpeg" controls style="height:40%"></image>|
 
 
 
@@ -68,10 +68,10 @@ Mathis Petrovich
 </div>
 
 <div class="col">
-<image src="./images/nvidia-smi.png" controls style="width:80%" ></image>
+<image src="https://perso.crans.org/petrovich/images/nvidia-smi.png" controls style="width:80%" ></image>
 </div>
 </div>
-<image src="./images/htop.png" controls style="width:150%" ></image>
+<image src="https://perso.crans.org/petrovich/images/htop.png" controls style="width:150%" ></image>
 
 
 ## CMU hartwell server
@@ -82,7 +82,7 @@ Big issue: No **root** access ☹
 
 
 ## CMU hartwell server
-<image src="./images/make.jpg" controls style="width:150%" ></image>
+<image src="https://perso.crans.org/petrovich/images/make.jpg" controls style="width:150%" ></image>
 
 
 
@@ -97,12 +97,12 @@ Big issue: No **root** access ☹
 
 
 ## Evaluation
-<image src="./images/iou_equation.png" controls style="width:70%" ></image>
+<image src="https://perso.crans.org/petrovich/images/iou_equation.png" controls style="width:70%" ></image>
 
 
 ## Evaluation
 ### Example
-<image src="./images/iou_examples.png" controls style="width:70%" ></image>
+<image src="https://perso.crans.org/petrovich/images/iou_examples.png" controls style="width:70%" ></image>
 
 
 ## Evalutation
@@ -168,38 +168,38 @@ Big issue: No **root** access ☹
 ### Type of occlusions
 | Dynamic  |  | | | |
 |---------|----------|---------|----------|
-| <image src="./images/occlusions/dynamic/pad_under_0004.jpg" controls style="height:30%"></image> | <image src="./images/occlusions/dynamic/pad_under_0005.jpg" controls style="height:30%"></image> | <image src="./images/occlusions/dynamic/pad_under_0006.jpg" controls style="height:30%"></image> | <image src="./images/occlusions/dynamic/pad_under_0008.jpg" controls style="height:30%"></image> |
+| <image src="https://perso.crans.org/petrovich/images/occlusions/dynamic/pad_under_0004.jpg" controls style="height:30%"></image> | <image src="https://perso.crans.org/petrovich/images/occlusions/dynamic/pad_under_0005.jpg" controls style="height:30%"></image> | <image src="https://perso.crans.org/petrovich/images/occlusions/dynamic/pad_under_0006.jpg" controls style="height:30%"></image> | <image src="https://perso.crans.org/petrovich/images/occlusions/dynamic/pad_under_0008.jpg" controls style="height:30%"></image> |
 
 
 ## Custom dataset
 ### Type of occlusions
 | Static  |  | | | |
 |---------|----------|---------|----------|
-| <image src="./images/occlusions/static/pad_0001.jpg" controls style="height:30%"></image> | <image src="./images/occlusions/static/pad_0002.jpg" controls style="height:30%"></image> | <image src="./images/occlusions/static/pad_0003.jpg" controls style="height:30%"></image> | <image src="./images/occlusions/static/pad_0004.jpg" controls style="height:30%"></image> |
+| <image src="https://perso.crans.org/petrovich/images/occlusions/static/pad_0001.jpg" controls style="height:30%"></image> | <image src="https://perso.crans.org/petrovich/images/occlusions/static/pad_0002.jpg" controls style="height:30%"></image> | <image src="https://perso.crans.org/petrovich/images/occlusions/static/pad_0003.jpg" controls style="height:30%"></image> | <image src="https://perso.crans.org/petrovich/images/occlusions/static/pad_0004.jpg" controls style="height:30%"></image> |
 
 
 ## Custom dataset
 ### Multi orientation
 | Mug  |  | | | 
 |---------|----------|---------|
-| <image src="./images/occlusions/multi_orientation/mug_bend.jpg" controls style="width:100%"></image> | <image src="./images/occlusions/multi_orientation/mug_bend2.jpg" controls style="width:100%"></image> | <image src="./images/occlusions/multi_orientation/mug_bend3.jpg" controls style="width:100%"></image> |
+| <image src="https://perso.crans.org/petrovich/images/occlusions/multi_orientation/mug_bend.jpg" controls style="width:100%"></image> | <image src="https://perso.crans.org/petrovich/images/occlusions/multi_orientation/mug_bend2.jpg" controls style="width:100%"></image> | <image src="https://perso.crans.org/petrovich/images/occlusions/multi_orientation/mug_bend3.jpg" controls style="width:100%"></image> |
 
 
 ## Custom dataset
 ### Fast motion
-<image src="./images/occlusions/fast_motion/mug_fast.jpg" controls style="width:60%"></image>
+<image src="https://perso.crans.org/petrovich/images/occlusions/fast_motion/mug_fast.jpg" controls style="width:60%"></image>
 
 
 ## Custom dataset
 ### Full occlusions
-<image src="./images/occlusions/full_occlusions.jpg" controls style="width:60%"></image>
+<image src="https://perso.crans.org/petrovich/images/occlusions/full_occlusions.jpg" controls style="width:60%"></image>
 
 
 
 ### Object vs Instance
 | Object  | Instance |
 |---------|----------|
-| <image src="./images/custom/mugs_colors_names_object.png" controls style="height:70%"></image> | <image src="./images/custom/mugs_colors_names.png" controls style="height:70%"></image> |
+| <image src="https://perso.crans.org/petrovich/images/custom/mugs_colors_names_object.png" controls style="height:70%"></image> | <image src="https://perso.crans.org/petrovich/images/custom/mugs_colors_names.png" controls style="height:70%"></image> |
 
 
 
@@ -249,20 +249,20 @@ Big issue: No **root** access ☹
 ### Synthetic dataset
 | Backgrounds  |  | |
 |---------|----------|-|
-| <image src="./images/syndata/background_00_24.png" controls style="height:50%"></image> | <image src="./images/syndata/background_03_02.png" controls style="height:50%"></image> | <image src="./images/syndata/background_03_04.png" controls style="height:50%"></image> |
+| <image src="https://perso.crans.org/petrovich/images/syndata/background_00_24.png" controls style="height:50%"></image> | <image src="https://perso.crans.org/petrovich/images/syndata/background_03_02.png" controls style="height:50%"></image> | <image src="https://perso.crans.org/petrovich/images/syndata/background_03_04.png" controls style="height:50%"></image> |
 
 
 ## Creation of a detector
 ### Synthetic dataset
 | Pictures  |  | |
 |---------|----------|-|
-| <image src="./images/syndata/occlus12_18_0000440.jpg" controls style="height:50%"></image> | <image src="./images/syndata/occlus12_18_0000534.jpg" controls style="height:50%"></image> | <image src="./images/syndata/occlus12_18_0003520.jpg" controls style="height:50%"></image> |
+| <image src="https://perso.crans.org/petrovich/images/syndata/occlus12_18_0000440.jpg" controls style="height:50%"></image> | <image src="https://perso.crans.org/petrovich/images/syndata/occlus12_18_0000534.jpg" controls style="height:50%"></image> | <image src="https://perso.crans.org/petrovich/images/syndata/occlus12_18_0003520.jpg" controls style="height:50%"></image> |
 
 
 
 ## Creation of a detector
 ### Take a detector (Faster RCNN)
-<image src="./images/schema.png" controls style="width:45%" ></image>
+<image src="https://perso.crans.org/petrovich/images/schema.png" controls style="width:45%" ></image>
 
 
 ## Creation of a detector
@@ -301,7 +301,7 @@ Big issue: No **root** access ☹
 
 | **Farneback**                                              | **Brox**                                                     | **Flownet2**                                     |
 | :---------------:                                          | :--------------:                                             | :----:                                           |
-| <video src="./videos/flows/0100_cv.webm" controls></video> | <video src="./videos/flows/0100_brox.webm" controls></video> | <video src="./videos/flows/0100_flownet2.webm" controls></video> |
+| <video src="https://perso.crans.org/petrovich/videos/flows/0100_cv.webm" controls></video> | <video src="https://perso.crans.org/petrovich/videos/flows/0100_brox.webm" controls></video> | <video src="https://perso.crans.org/petrovich/videos/flows/0100_flownet2.webm" controls></video> |
 
 
 
@@ -334,25 +334,25 @@ Big issue: No **root** access ☹
 
 
 ## A recurrent network
-<image src="./images/rnn.png" controls style="width:75%"></image>
+<image src="https://perso.crans.org/petrovich/images/rnn.png" controls style="width:75%"></image>
 
 
 ## LSTM
-<image src="./images/LSTM3-chain.png" controls style="width:75%"></image>
+<image src="https://perso.crans.org/petrovich/images/LSTM3-chain.png" controls style="width:75%"></image>
 
 
 
 ## Structure of the network
-<image src="./images/net.png" controls style="width:75%"></image>
+<image src="https://perso.crans.org/petrovich/images/net.png" controls style="width:75%"></image>
 
 
 
 ## Results
-<video src="./videos/lstm_mug1.webm" controls></video>
+<video src="https://perso.crans.org/petrovich/videos/lstm_mug1.webm" controls></video>
 
 
 ## Results
-<video src="./videos/lstm_mug2.webm" controls></video>
+<video src="https://perso.crans.org/petrovich/videos/lstm_mug2.webm" controls></video>
 
 
 
@@ -376,7 +376,7 @@ Possible issues:
 ## ImagenetVid
 | Examples  |  |
 |---------|----------|
-| <image src="./images/imnet/turtle.jpg" controls style="height:40%"></image> | <image src="./images/imnet/lizard.jpg" controls style="height:40%"></image> |
+| <image src="https://perso.crans.org/petrovich/images/imnet/turtle.jpg" controls style="height:40%"></image> | <image src="https://perso.crans.org/petrovich/images/imnet/lizard.jpg" controls style="height:40%"></image> |
 
 
 
@@ -384,18 +384,18 @@ Possible issues:
 ### Preprocessing required
 | Raw  | Clustering |
 |---------|----------|
-| <image src="./images/turtles.png" controls style="height:40%"></image> | <image src="./images/turtles_meanshift.png" controls style="height:40%"></image> |
+| <image src="https://perso.crans.org/petrovich/images/turtles.png" controls style="height:40%"></image> | <image src="https://perso.crans.org/petrovich/images/turtles_meanshift.png" controls style="height:40%"></image> |
 
 
 
 ## Qualitative results
-<video src="./videos/imnet/turtle_lstm.webm" controls></video>
+<video src="https://perso.crans.org/petrovich/videos/imnet/turtle_lstm.webm" controls></video>
 
 
 ## Qualitative results
 | $\text{Turtle}_1$                                                                | $\text{Turtle}_2$                                                                          | $\text{Turtle}_3$ |
 |------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------|
-| <video src="./videos/imnet/turtle_0.webm" controls></video> | <video src="./videos/imnet/turtle_1.webm" controls></video> | <video src="./videos/imnet/turtle_3.webm" controls></video>        |
+| <video src="https://perso.crans.org/petrovich/videos/imnet/turtle_0.webm" controls></video> | <video src="https://perso.crans.org/petrovich/videos/imnet/turtle_1.webm" controls></video> | <video src="https://perso.crans.org/petrovich/videos/imnet/turtle_3.webm" controls></video>        |
 
 
 ## Quantitative results
