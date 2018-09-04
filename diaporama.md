@@ -7,7 +7,7 @@ Mathis Petrovich
 
 
 ##  
-<!-- -- data-background="./images/carte.png" data-background-transition="zoom"  -->
+<!-- -- data-background="https://perso.crans.org/petrovich/images/carte.png" data-background-transition="zoom"  -->
 
 
 
@@ -284,7 +284,7 @@ Big issue: No **root** access ☹
 
 
 ## Optical flow
-<!-- -- data-background-video="videos/flows/0100_flownet2.webm"-->
+<!-- -- data-background-video="https://perso.crans.org/petrovich/videos/flows/0100_flownet2.webm"-->
 
 
 
