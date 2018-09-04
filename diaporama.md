@@ -92,7 +92,7 @@ Big issue: No **root** access ☹
 
 
 ## Example of track
-<video src="videos/vot.webm" controls></video>
+<video src="https://perso.crans.org/petrovich/videos/vot.webm" controls></video>
 
 
 
@@ -146,7 +146,7 @@ Big issue: No **root** access ☹
 
 
 ## Custom dataset
-<video src="videos/0121.webm" controls></video>
+<video src="https://perso.crans.org/petrovich/videos/0121.webm" controls></video>
 
 
 ## Custom dataset
@@ -160,7 +160,7 @@ Big issue: No **root** access ☹
 
 
 ## Custom dataset
-<video src="videos/annotations.webm" controls ></video>
+<video src="https://perso.crans.org/petrovich/videos/annotations.webm" controls ></video>
 
 
 
@@ -215,14 +215,14 @@ Big issue: No **root** access ☹
 
 
 ## Experiment with Goturn
-<video src="videos/0072-goturn.webm" controls></video>
+<video src="https://perso.crans.org/petrovich/videos/0072-goturn.webm" controls></video>
 
 
 ## Experiment with Goturn
 ### Fine tunning
 | Without  | With |
 |---------|----------|
-| <video src="videos/0000-goturn-no.webm" controls></video> | <video src="videos/0000-goturn-yes.webm" controls></video> |
+| <video src="https://perso.crans.org/petrovich/videos/0000-goturn-no.webm" controls></video> | <video src="https://perso.crans.org/petrovich/videos/0000-goturn-yes.webm" controls></video> |
 
 
 ## Experiment with Goturn
@@ -272,7 +272,7 @@ Big issue: No **root** access ☹
 
 
 ## Example of result
-<video src="videos/0100_detector.webm" controls></video>
+<video src="https://perso.crans.org/petrovich/videos/0100_detector.webm" controls></video>
 
 
 ## Result
